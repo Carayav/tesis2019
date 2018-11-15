@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.pdf",
+				"*.aux",
+				"*.key",
+				"*.gz",
+				"*.log"
+			],
+			"path": "."
+		},
+		{
+			"path": "/home/cl/Documents/2018-02/Tesis/octave"
+		}
+	]
+}
