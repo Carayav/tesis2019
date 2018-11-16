@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.6)  14 NOV 2018 09:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.6)  16 NOV 2018 18:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -508,11 +508,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 
  (./capitulo1.tex
 Cap\'{\i }tulo 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--18
-
- []
-
 [3
 
 
@@ -526,16 +521,16 @@ Cap\'{\i }tulo 2.
 
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 71.
+LaTeX Font Info:    Try loading font information for U+msa on input line 93.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 71.
+LaTeX Font Info:    Try loading font information for U+msb on input line 93.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (144.2938pt too wide) in paragraph at lines 71--71
+Overfull \hbox (144.2938pt too wide) in paragraph at lines 93--93
 [][][]\OT1/ptm/m/n/10 http://comunicacionacademica.uc.cl/images/recursos/espano
 l/escritura/recurso[]en[]pdf[]extenso/15[]Como[]elaborar[]un[]marco[]conceptual
 .pdf| 
@@ -551,36 +546,24 @@ Cap\'{\i }tulo 3.
 
 
 ]
-<imagenes/Fig_ejMet.png, id=180, 943.3644pt x 419.6478pt>
+<imagenes/Fig_ejMet.png, id=182, 943.3644pt x 419.6478pt>
 File: imagenes/Fig_ejMet.png Graphic file (type png)
 <use imagenes/Fig_ejMet.png>
-Package pdftex.def Info: imagenes/Fig_ejMet.png  used on input line 48.
+Package pdftex.def Info: imagenes/Fig_ejMet.png  used on input line 76.
 (pdftex.def)             Requested size: 325.215pt x 144.66978pt.
-) [9pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
-1}) has been already used, duplicate ignored
+ [9]) [10pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.3.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.92 \include{capitulo3}
-                         <./imagenes/Fig_ejMet.png>] [10] (./templateICI.bbl
+                         <./imagenes/Fig_ejMet.png>] (./templateICI.bbl
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `es'. Using the pattern for
 ** the default language instead.
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `es'. Using the pattern for
 ** the default language instead.
-! Misplaced alignment tab character &.
-<argument> Signals, systems &
-                              inference
-l.81 ...nheim, \emph{Signals, systems & inference}
-                                                  .\hskip 1em plus 0.5em minus
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
 [11
 
 
@@ -596,24 +579,24 @@ LaTeX Info: Redefining \% on input line 23.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `templateICI.out' has not changed.
-(rerunfilecheck)             Checksum: 428342D1ABBDA55CD8556F561D285CBB;1782.
+(rerunfilecheck)             Checksum: 56391D9C6F5EFBABF6C09C4C34EF3FCA;1782.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 8341 strings out of 492642
- 115484 string characters out of 6135567
- 235071 words of memory out of 5000000
+ 8343 strings out of 492642
+ 115504 string characters out of 6135567
+ 234070 words of memory out of 5000000
  12010 multiletter control sequences out of 15000+600000
  29342 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,8n,35p,627b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,8n,35p,455b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on templateICI.pdf (12 pages, 237595 bytes).
+Output written on templateICI.pdf (12 pages, 238835 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
