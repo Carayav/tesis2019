@@ -38,52 +38,152 @@ C.~Lorincz, S.~L. Manske, and R.~Zernicke, ``Bone health: Part 1, nutrition,''
 
 \bibitem{Cooper2016}
 \BIBentryALTinterwordspacing
-D.~M.~L. Cooper, C.~E. Kawalilak, K.~Harrison, B.~D. Johnston, and J.~D.
-  Johnston, ``Cortical bone porosity: What is it, why is it important, and how
-  can we detect it?'' \emph{Current Osteoporosis Reports}, vol.~14, no.~5, pp.
-  187--198, Oct 2016. [Online]. Available:
-  \url{https://doi.org/10.1007/s11914-016-0319-y}
+D.~M. Cooper, C.~E. Kawalilak, K.~Harrison, B.~D. Johnston, and J.~D. Johnston,
+  ``{Cortical Bone Porosity: What Is It, Why Is It Important, and How Can We
+  Detect It?}'' \emph{Current Osteoporosis Reports}, vol.~14, no.~5, pp.
+  187--198, oct 2016. [Online]. Available:
+  \url{http://link.springer.com/10.1007/s11914-016-0319-y}
 \BIBentrySTDinterwordspacing
 
 \bibitem{DINAMARCA-MONTECINOS2015}
 \BIBentryALTinterwordspacing
-J.~L. Dinamarca-Montecinos, G.~Améstica-Lazcano, R.~Rubio-Herrera,
-  A.~Carrasco-Buvinic, and A.~Vásquez,
-  ``\BIBforeignlanguage{es}{{Características epidemiológicas y clínicas de
-  las fracturas de cadera en adultos mayores en un hospital póblico
-  chileno}},'' \emph{\BIBforeignlanguage{es}{{Revista médica de Chile}}}, vol.
-  143, pp. 1552 -- 1559, 12 2015. [Online]. Available:
-  \url{https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872015001200008&nrm=iso}
+J.~L. Dinamarca-Montecinos, G.~Am{\'{e}}stica-Lazcano, R.~Rubio-Herrera,
+  A.~Carrasco-Buvinic, and A.~V{\'{a}}squez, ``{Caracter{\'{i}}sticas
+  epidemiol{\'{o}}gicas y cl{\'{i}}nicas de las fracturas de cadera en adultos
+  mayores en un hospital p{\'{u}}blico chileno},'' \emph{Revista Medica de
+  Chile}, vol. 143, no.~12, pp. 1552--1559, dec 2015. [Online]. Available:
+  \url{http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0034-98872015001200008&lng=en&nrm=iso&tlng=en}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Bala2015}
 \BIBentryALTinterwordspacing
-Y.~Bala, R.~Zebaze, and E.~Seeman, ``Role of cortical bone in bone fragility,''
-  \emph{Current Opinion in Rheumatology}, vol.~27, no.~4, pp. 406--413, jul
-  2015. [Online]. Available: \url{https://doi.org/10.1097/bor.0000000000000183}
+Y.~Bala, R.~Zebaze, and E.~Seeman, ``{Role of cortical bone in bone
+  fragility},'' \emph{Current Opinion in Rheumatology}, vol.~27, no.~4, pp.
+  406--413, jul 2015. [Online]. Available:
+  \url{http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00002281-201507000-00013}
 \BIBentrySTDinterwordspacing
 
-\bibitem{EMS}
-N.~J. Salkind, \emph{Encyclopedia of Measurement and Statistics 3-Volume
-  Set}.\hskip 1em plus 0.5em minus 0.4em\relax SAGE Publications, Inc, 2006.
+\bibitem{tortora/derrickson2018}
+Tortora/Derrickson, \emph{{Anatomy and Physiology, 15th edition}}.\hskip 1em
+  plus 0.5em minus 0.4em\relax Wiley Custom Learning Solutions, nov 2018.
 
-\bibitem{IMIP}
-N.~B. Smith and A.~Webb, \emph{Introduction to Medical Imaging: Physics,
-  Engineering and Clinical Applications (Cambridge Texts in Biomedical
-  Engineering)}.\hskip 1em plus 0.5em minus 0.4em\relax Cambridge University
-  Press, 2010, pp. 145--145.
+\bibitem{nadinebarriesmith2010}
+\BIBentryALTinterwordspacing
+A.~Webb and N.~B. Smith, \emph{{Introduction to medical imaging : physics,
+  engineering, and clinical applications}}.\hskip 1em plus 0.5em minus
+  0.4em\relax Cambridge University Press, dec 2011. [Online]. Available:
+  \url{https://doi.org/10.1017/CBO9780511760976}
+\BIBentrySTDinterwordspacing
 
-\bibitem{AbuZidan2011ClinicalUP}
-F.~M. Abu-Zidan, A.~F. Hefny, and P.~Corr, ``Clinical ultrasound physics,'' in
-  \emph{Journal of emergencies, trauma, and shock}, 2011.
+\bibitem{Abu-Zidan2011}
+\BIBentryALTinterwordspacing
+F.~M. Abu-Zidan, A.~F. Hefny, and P.~Corr, ``{Clinical ultrasound physics},''
+  \emph{Journal of emergencies, trauma, and shock}, vol.~4, no.~4, pp.
+  501--503, 2011. [Online]. Available:
+  \url{https://www.ncbi.nlm.nih.gov/pubmed/22090745
+  https://www.ncbi.nlm.nih.gov/pmc/PMC3214508/}
+\BIBentrySTDinterwordspacing
 
-\bibitem{oppenheim2016signals}
-A.~Oppenheim, \emph{{Signals, systems \& inference}}.\hskip 1em plus 0.5em
-  minus 0.4em\relax Boston: Pearson, 2016.
+\bibitem{nakamura2012ultrasonic}
+\BIBentryALTinterwordspacing
+K.~Nakamura, \emph{Ultrasonic Transducers: Materials and Design for Sensors,
+  Actuators and Medical Applications}, ser. Woodhead Publishing Series in
+  Electronic and Optical Materials.\hskip 1em plus 0.5em minus 0.4em\relax
+  Elsevier Science, 2012. [Online]. Available:
+  \url{https://books.google.cl/books?id=MZVwAgAAQBAJ}
+\BIBentrySTDinterwordspacing
 
-\bibitem{londono2014guias}
-O.~L. Londo{\~n}o~Palacio, L.~F. Maldonado~Granados, and L.~C.
-  Calder{\'o}n~Villaf{\'a}{\~n}ez, ``Gu{\'\i}as para construir estados del
-  arte,'' 2014.
+\bibitem{ensminger2008ultrasonics}
+\BIBentryALTinterwordspacing
+D.~Ensminger and F.~Stulen, \emph{Ultrasonics: Data, Equations and Their
+  Practical Uses}.\hskip 1em plus 0.5em minus 0.4em\relax CRC Press, 2008.
+  [Online]. Available: \url{https://books.google.cl/books?id=u2XlPFCbVPgC}
+\BIBentrySTDinterwordspacing
+
+\bibitem{neilsalkind2006}
+\BIBentryALTinterwordspacing
+N.~J. Salkind, \emph{{Encyclopedia of Measurement and Statistics 3-Volume
+  Set}}.\hskip 1em plus 0.5em minus 0.4em\relax SAGE Publications, Inc, oct
+  2006. [Online]. Available: \url{https://www.amazon.com/dp/1412916119/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{alanoppenheim2015}
+\BIBentryALTinterwordspacing
+A.~V. Oppenheim, \emph{{Signals, Systems and Inference}}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Pearson, apr 2015. [Online]. Available:
+  \url{https://www.xarg.org/ref/a/0133943283/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{leslie2007handbook}
+\BIBentryALTinterwordspacing
+L.~Hogben, \emph{Handbook of Linear Algebra}, ser. Discrete Mathematics and Its
+  Applications.\hskip 1em plus 0.5em minus 0.4em\relax Taylor \& Francis, 2007.
+  [Online]. Available: \url{https://books.google.cl/books?id=5GQRnwEACAAJ}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Minonzio2018a}
+\BIBentryALTinterwordspacing
+J.~G. Minonzio, N.~Bochud, Q.~Vallet, Y.~Bala, D.~Ramiandrisoa, H.~Follet,
+  D.~Mitton, and P.~Laugier, ``{Bone cortical thickness and porosity assessment
+  using ultrasound guided waves: An ex vivo validation study},'' \emph{Bone},
+  vol. 116, no. June, pp. 111--119, 2018. [Online]. Available:
+  \url{https://doi.org/10.1016/j.bone.2018.07.018}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Gregg2013}
+\BIBentryALTinterwordspacing
+B.~Gregg, ``{Thinking methodically about performance},'' \emph{Communications
+  of the ACM}, vol.~56, no.~2, p.~45, feb 2013. [Online]. Available:
+  \url{http://dl.acm.org/citation.cfm?doid=2408776.2408791}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Adhianto2009}
+\BIBentryALTinterwordspacing
+L.~Adhianto, S.~Banerjee, M.~Fagan, M.~Krentel, G.~Marin, J.~Mellor-Crummey,
+  and N.~R. Tallent, ``{HPCTOOLKIT: tools for performance analysis of optimized
+  parallel programs},'' \emph{Concurrency and Computation: Practice and
+  Experience}, pp. n/a--n/a, 2009. [Online]. Available:
+  \url{http://doi.wiley.com/10.1002/cpe.1553}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Dai2015}
+\BIBentryALTinterwordspacing
+X.~Dai, B.~Norris, and A.~D. Malony, ``{Autoperf},'' in \emph{Proceedings of
+  the 2015 Workshop on Challenges in Performance Methods for Software
+  Development - WOSP '15}.\hskip 1em plus 0.5em minus 0.4em\relax New York, New
+  York, USA: ACM Press, 2015, pp. 11--16. [Online]. Available:
+  \url{http://dl.acm.org/citation.cfm?doid=2693561.2693569}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Goto2008}
+\BIBentryALTinterwordspacing
+K.~Goto and R.~A. van~de Geijn, ``{Anatomy of high-performance matrix
+  multiplication},'' \emph{ACM Transactions on Mathematical Software}, vol.~34,
+  no.~3, pp. 1--25, may 2008. [Online]. Available:
+  \url{http://portal.acm.org/citation.cfm?doid=1356052.1356053}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Masliah2016}
+\BIBentryALTinterwordspacing
+I.~Masliah, A.~Abdelfattah, A.~Haidar, S.~Tomov, M.~Baboulin, J.~Falcou, and
+  J.~Dongarra, ``<,'' 2016, pp. 659--671. [Online]. Available:
+  \url{http://link.springer.com/10.1007/978-3-319-43659-3_48}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Heinecke2016}
+\BIBentryALTinterwordspacing
+A.~Heinecke, G.~Henry, M.~Hutchinson, and H.~Pabst, ``{LIBXSMM: Accelerating
+  Small Matrix Multiplications by Runtime Code Generation},'' \emph{undefined},
+  2016. [Online]. Available:
+  \url{https://www.semanticscholar.org/paper/LIBXSMM%3A-Accelerating-Small-Matrix-Multiplications-Heinecke-Henry/ac473f1674f14253da0e50c25b8cb86f8801a808}
+\BIBentrySTDinterwordspacing
+
+\bibitem{adams2015non}
+\BIBentryALTinterwordspacing
+K.~M.~G. Adams, \emph{{Non-functional Requirements in Systems Analysis and
+  Design}}, ser. Topics in Safety, Risk, Reliability and Quality.\hskip 1em
+  plus 0.5em minus 0.4em\relax Springer International Publishing, 2015.
+  [Online]. Available: \url{https://books.google.cl/books?id=U7-pCAAAQBAJ}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}

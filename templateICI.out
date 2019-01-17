@@ -1,26 +1,52 @@
 \BOOKMARK [0][-]{chapter*.1}{Resumen}{}% 1
 \BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 2
 \BOOKMARK [1][-]{section.1.1}{Principales contribuciones}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.2}{Esctructura del Documento}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Estructura del Documento}{chapter.1}% 4
 \BOOKMARK [0][-]{chapter.2}{Marco Conceptual y Estado del Arte}{}% 5
 \BOOKMARK [1][-]{section.2.1}{Marco Conceptual}{chapter.2}% 6
-\BOOKMARK [2][-]{subsection.2.1.1}{Ambito Oseo}{section.2.1}% 7
-\BOOKMARK [2][-]{subsection.2.1.2}{Ambito Ultrasonido}{section.2.1}% 8
-\BOOKMARK [1][-]{section.2.2}{Estado del Arte}{chapter.2}% 9
-\BOOKMARK [0][-]{chapter.3}{Definici\363n del Problema y An\341lisis}{}% 10
-\BOOKMARK [1][-]{section.3.1}{Formulaci\363n del Problema}{chapter.3}% 11
-\BOOKMARK [1][-]{section.3.2}{Soluci\363n Propuesta}{chapter.3}% 12
-\BOOKMARK [1][-]{section.3.3}{Objetivos}{chapter.3}% 13
-\BOOKMARK [2][-]{subsection.3.3.1}{Objetivo General}{section.3.3}% 14
-\BOOKMARK [2][-]{subsection.3.3.2}{Objetivos Espec\355ficos}{section.3.3}% 15
-\BOOKMARK [1][-]{section.3.4}{Metodolog\355a}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.5}{Especificaci\363n de Requerimientos}{chapter.3}% 17
-\BOOKMARK [2][-]{subsection.3.5.1}{Requerimientos Funcionales}{section.3.5}% 18
-\BOOKMARK [2][-]{subsection.3.5.2}{Requerimientos No Funcionales}{section.3.5}% 19
-\BOOKMARK [1][-]{section.3.6}{Funcionalidades del Sistema}{chapter.3}% 20
-\BOOKMARK [2][-]{subsection.3.6.1}{Diagramas de Casos de Uso}{section.3.6}% 21
-\BOOKMARK [2][-]{subsection.3.6.2}{Casos de Uso}{section.3.6}% 22
-\BOOKMARK [2][-]{subsection.3.6.3}{Diagramas de Secuencia}{section.3.6}% 23
-\BOOKMARK [2][-]{subsection.3.6.4}{Diagramas de Estado}{section.3.6}% 24
-\BOOKMARK [2][-]{subsection.3.6.5}{Modelo Conceptual}{section.3.6}% 25
-\BOOKMARK [0][-]{chapter*.9}{Bibliograf\355a}{}% 26
+\BOOKMARK [2][-]{subsection.2.1.1}{\301mbito Oseo}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.2}{\301mbito Ultrasonido}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.3}{\301mbito Procesamiento de Se\361ales}{section.2.1}% 9
+\BOOKMARK [1][-]{section.2.2}{Estado del Arte}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.1}{An\341lisis de Desempe\361o}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.2}{Alto Rendimiento}{section.2.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Definici\363n del Problema y An\341lisis}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Formulaci\363n del Problema}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Soluci\363n Propuesta}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.3}{Objetivos}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.3.1}{Objetivo General}{section.3.3}% 17
+\BOOKMARK [2][-]{subsection.3.3.2}{Objetivos Espec\355ficos}{section.3.3}% 18
+\BOOKMARK [1][-]{section.3.4}{Metodolog\355a}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.5}{Especificaci\363n de Requerimientos}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.5.1}{Requerimientos Funcionales}{section.3.5}% 21
+\BOOKMARK [2][-]{subsection.3.5.2}{Requerimientos No Funcionales}{section.3.5}% 22
+\BOOKMARK [1][-]{section.3.6}{Funcionalidades del Sistema}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.6.1}{Diagramas de Casos de Uso}{section.3.6}% 24
+\BOOKMARK [2][-]{subsection.3.6.2}{Casos de Uso}{section.3.6}% 25
+\BOOKMARK [2][-]{subsection.3.6.3}{Diagramas de Secuencia}{section.3.6}% 26
+\BOOKMARK [2][-]{subsection.3.6.4}{Diagramas de Estado}{section.3.6}% 27
+\BOOKMARK [2][-]{subsection.3.6.5}{Modelo Conceptual}{section.3.6}% 28
+\BOOKMARK [0][-]{chapter.4}{Dise\361o}{}% 29
+\BOOKMARK [1][-]{section.4.1}{Dise\361o Arquitect\363nico}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.1.1}{Tecnolog\355as utilizadas}{section.4.1}% 31
+\BOOKMARK [2][-]{subsection.4.1.2}{Flujo de datos / Vista de alto nivel}{section.4.1}% 32
+\BOOKMARK [1][-]{section.4.2}{Dise\361o L\363gico}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.2.1}{Diagrama de despliegue}{section.4.2}% 34
+\BOOKMARK [2][-]{subsection.4.2.2}{Diagrama de componentes}{section.4.2}% 35
+\BOOKMARK [2][-]{subsection.4.2.3}{Diagrama de paquetes}{section.4.2}% 36
+\BOOKMARK [2][-]{subsection.4.2.4}{Diagrama de clases}{section.4.2}% 37
+\BOOKMARK [1][-]{section.4.3}{Dise\361o de Datos}{chapter.4}% 38
+\BOOKMARK [2][-]{subsection.4.3.1}{Diagrama Entidad Relaci\363n}{section.4.3}% 39
+\BOOKMARK [2][-]{subsection.4.3.2}{Diagrama Relacional}{section.4.3}% 40
+\BOOKMARK [2][-]{subsection.4.3.3}{Diccionario de Datos}{section.4.3}% 41
+\BOOKMARK [1][-]{section.4.4}{Dise\361o de Interfaz}{chapter.4}% 42
+\BOOKMARK [2][-]{subsection.4.4.1}{Arquitectura de la Informaci\363n}{section.4.4}% 43
+\BOOKMARK [2][-]{subsection.4.4.2}{Prototipos de Interfaces Gr\341ficas}{section.4.4}% 44
+\BOOKMARK [1][-]{section.4.5}{Dise\361o de Pruebas}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.5.1}{Pruebas Unitarias}{section.4.5}% 46
+\BOOKMARK [2][-]{subsection.4.5.2}{Pruebas de Integraci\363n}{section.4.5}% 47
+\BOOKMARK [2][-]{subsection.4.5.3}{Pruebas con Usuarios}{section.4.5}% 48
+\BOOKMARK [2][-]{subsection.4.5.4}{Pruebas de Aceptaci\363n}{section.4.5}% 49
+\BOOKMARK [1][-]{section.4.6}{Diagramas Opcionales / Complementario}{chapter.4}% 50
+\BOOKMARK [2][-]{subsection.4.6.1}{Diagramas de Actividad}{section.4.6}% 51
+\BOOKMARK [0][-]{chapter*.22}{Bibliograf\355a}{}% 52

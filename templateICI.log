@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.6)  16 NOV 2018 18:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.11)  16 JAN 2019 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -31,7 +31,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 (/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
@@ -162,16 +162,16 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/09/02 3.23 The Babel package
+Package: babel 2018/11/13 3.27 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/09/02 3.23 Babel switching mechanism
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
 )
 (/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/09/02 3.23 Babel common definitions
+File: babel.def 2018/11/13 3.27 Babel common definitions
 \babel@savecnt=\count104
 \U@D=\dimen124
 
@@ -238,7 +238,7 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 )
 (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
 
 (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
@@ -261,7 +261,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -294,7 +294,7 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 \Hy@pagecounter=\count116
 
 (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -303,33 +303,33 @@ Now handling font encoding PD1 ...
 (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4762.
+Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count118
 
 (/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5115.
+LaTeX Info: Redefining \url on input line 5141.
 \XeTeXLinkMargin=\dimen130
 \Fld@menulength=\count119
 \Field@Width=\dimen131
 \Fld@charsize=\dimen132
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring OFF on input line 6389.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
+Package hyperref Info: Hyper figures OFF on input line 6396.
+Package hyperref Info: Link nesting OFF on input line 6401.
+Package hyperref Info: Hyper index ON on input line 6404.
+Package hyperref Info: backreferencing OFF on input line 6411.
+Package hyperref Info: Link coloring OFF on input line 6416.
+Package hyperref Info: Link coloring with OCG OFF on input line 6421.
+Package hyperref Info: PDF/A mode OFF on input line 6426.
+LaTeX Info: Redefining \ref on input line 6466.
+LaTeX Info: Redefining \pageref on input line 6470.
 \Hy@abspage=\count120
 \c@Item=\count121
 \c@Hfootnote=\count122
@@ -337,7 +337,7 @@ LaTeX Info: Redefining \pageref on input line 6443.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
 \Fld@listcount=\count123
 \c@bookmark@seq@number=\count124
 
@@ -377,7 +377,11 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 
-(./capitulo1.aux) (./capitulo2.aux) (./capitulo3.aux))
+(./capitulo1.aux) (./capitulo2.aux) (./capitulo3.aux
+
+LaTeX Warning: Label `fig:hmem' multiply defined.
+
+) (./capitulo4.aux))
 \openout1 = `templateICI.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
@@ -395,8 +399,7 @@ LaTeX Font Info:    ... okay on input line 58.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
 LaTeX Font Info:    ... okay on input line 58.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 58.
-
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -484,7 +487,7 @@ LaTeX Info: Redefining \nameref on input line 58.
 \@outlinefile=\write3
 \openout3 = `templateICI.out'.
 
-<imagenes/logoUV.png, id=108, 240.9pt x 113.42375pt>
+<imagenes/logoUV.png, id=213, 240.9pt x 113.42375pt>
 File: imagenes/logoUV.png Graphic file (type png)
 <use imagenes/logoUV.png>
 Package pdftex.def Info: imagenes/logoUV.png  used on input line 65.
@@ -508,95 +511,272 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 
  (./capitulo1.tex
 Cap\'{\i }tulo 1.
-[3
+) [3
 
 
-]) [4]
+] [4]
 \openout2 = `capitulo2.aux'.
 
  (./capitulo2.tex
 Cap\'{\i }tulo 2.
+<imagenes/humero.png, id=251, 622.325pt x 273.02pt>
+File: imagenes/humero.png Graphic file (type png)
+<use imagenes/humero.png>
+Package pdftex.def Info: imagenes/humero.png  used on input line 27.
+(pdftex.def)             Requested size: 325.215pt x 142.67526pt.
 [5
 
 
 
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 93.
- (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.37 
+      <./imagenes/humero.png>]
+<imagenes/porosidad.png, id=262, 609.27625pt x 400.49625pt>
+File: imagenes/porosidad.png Graphic file (type png)
+<use imagenes/porosidad.png>
+Package pdftex.def Info: imagenes/porosidad.png  used on input line 40.
+(pdftex.def)             Requested size: 325.215pt x 213.77754pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 93.
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (144.2938pt too wide) in paragraph at lines 93--93
-[][][]\OT1/ptm/m/n/10 http://comunicacionacademica.uc.cl/images/recursos/espano
-l/escritura/recurso[]en[]pdf[]extenso/15[]Como[]elaborar[]un[]marco[]conceptual
-.pdf| 
- []
+<imagenes/image6.jpg, id=266, 332.27586pt x 211.27206pt>
+File: imagenes/image6.jpg Graphic file (type jpg)
+<use imagenes/image6.jpg>
+Package pdftex.def Info: imagenes/image6.jpg  used on input line 57.
+(pdftex.def)             Requested size: 325.215pt x 206.79698pt.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
+}) has been already used, duplicate ignored
 
-) [6] [7]
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.61 
+      <./imagenes/porosidad.png>] [7pdfTeX warning (ext4): destination with the
+ same identifier (name{figure.2.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.87 
+      <./imagenes/image6.jpg>]
+<imagenes/image17.png, id=296, 882.29625pt x 295.1025pt>
+File: imagenes/image17.png Graphic file (type png)
+<use imagenes/image17.png>
+Package pdftex.def Info: imagenes/image17.png  used on input line 96.
+(pdftex.def)             Requested size: 325.215pt x 108.77644pt.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.119 
+       <./imagenes/image17.png (PNG copy)>]
+<imagenes/image13.png, id=318, 525.6pt x 580.788pt>
+File: imagenes/image13.png Graphic file (type png)
+<use imagenes/image13.png>
+Package pdftex.def Info: imagenes/image13.png  used on input line 136.
+(pdftex.def)             Requested size: 325.215pt x 359.35814pt.
+ [9] [10pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.2.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.153   \item L
+               as métricas de desempeño derivadas son esenciales para un a...
+ <./imagenes/image13.png>]
+<imagenes/image14.png, id=337, 708.7278pt x 330.9966pt>
+File: imagenes/image14.png Graphic file (type png)
+<use imagenes/image14.png>
+Package pdftex.def Info: imagenes/image14.png  used on input line 162.
+(pdftex.def)             Requested size: 325.215pt x 151.88147pt.
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.190 
+       <./imagenes/image14.png>]
+<imagenes/image10.png, id=350, 967.615pt x 416.55624pt>
+File: imagenes/image10.png Graphic file (type png)
+<use imagenes/image10.png>
+Package pdftex.def Info: imagenes/image10.png  used on input line 193.
+(pdftex.def)             Requested size: 325.215pt x 140.00642pt.
+) [12pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.83 \include{capitulo2}
+                         <./imagenes/image10.png>]
 \openout2 = `capitulo3.aux'.
 
  (./capitulo3.tex
 Cap\'{\i }tulo 3.
-[8
+<imagenes/image9.jpg, id=366, 602.25pt x 451.6875pt>
+File: imagenes/image9.jpg Graphic file (type jpg)
+<use imagenes/image9.jpg>
+Package pdftex.def Info: imagenes/image9.jpg  used on input line 22.
+(pdftex.def)             Requested size: 325.215pt x 243.92139pt.
+[13
+
+
+
+] [14pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.49 	\item P
+             aralelizar código a nivel de datos y tareas. <./imagenes/image9.j
+pg>]
+<imagenes/metod.png, id=378, 370.38374pt x 382.42876pt>
+File: imagenes/metod.png Graphic file (type png)
+<use imagenes/metod.png>
+Package pdftex.def Info: imagenes/metod.png  used on input line 75.
+(pdftex.def)             Requested size: 325.215pt x 335.79724pt.
+ [15] [16pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.3.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.94     \item \textbf
+                      {RF02} El sistema mostrara las graficas de espesor/por...
+ <./imagenes/metod.png>]
+<imagenes/diagrama-caso-usos.png, id=403, 217.81375pt x 181.67876pt>
+File: imagenes/diagrama-caso-usos.png Graphic file (type png)
+<use imagenes/diagrama-caso-usos.png>
+Package pdftex.def Info: imagenes/diagrama-caso-usos.png  used on input line 11
+8.
+(pdftex.def)             Requested size: 325.215pt x 271.26164pt.
+ [17]) [18pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.3.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.84 \include{capitulo3}
+                         <./imagenes/diagrama-caso-usos.png>] [19]
+\openout2 = `capitulo4.aux'.
+
+
+(./capitulo4.tex
+Cap\'{\i }tulo 4.
+[20
 
 
 
 ]
-<imagenes/Fig_ejMet.png, id=182, 943.3644pt x 419.6478pt>
-File: imagenes/Fig_ejMet.png Graphic file (type png)
-<use imagenes/Fig_ejMet.png>
-Package pdftex.def Info: imagenes/Fig_ejMet.png  used on input line 76.
-(pdftex.def)             Requested size: 325.215pt x 144.66978pt.
- [9]) [10pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.3.1}) has been already used, duplicate ignored
+<imagenes/DD.png, id=425, 337.26pt x 243.7908pt>
+File: imagenes/DD.png Graphic file (type png)
+<use imagenes/DD.png>
+Package pdftex.def Info: imagenes/DD.png  used on input line 52.
+(pdftex.def)             Requested size: 337.25917pt x 243.7902pt.
+ [21pdfTeX warning (ext4): destination with the same identifier (name{table.4.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.92 \include{capitulo3}
-                         <./imagenes/Fig_ejMet.png>] (./templateICI.bbl
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `es'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `es'. Using the pattern for
-** the default language instead.
-[11
+l.56 
+     ]
+<imagenes/componentDiagram.png, id=433, 394.47375pt x 736.7525pt>
+File: imagenes/componentDiagram.png Graphic file (type png)
+<use imagenes/componentDiagram.png>
+Package pdftex.def Info: imagenes/componentDiagram.png  used on input line 70.
+(pdftex.def)             Requested size: 303.53267pt x 566.90771pt.
+ [22pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 
+      <./imagenes/DD.png>]
+Overfull \vbox (8.61818pt too high) has occurred while \output is active []
 
 
-])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 
+      <./imagenes/componentDiagram.png (PNG copy)>]
+<imagenes/packageDiagram.png, id=445, 456.70625pt x 367.3725pt>
+File: imagenes/packageDiagram.png Graphic file (type png)
+<use imagenes/packageDiagram.png>
+Package pdftex.def Info: imagenes/packageDiagram.png  used on input line 86.
+(pdftex.def)             Requested size: 303.53267pt x 244.16508pt.
+ [24pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.96 
+      <./imagenes/packageDiagram.png>]
+<imagenes/classesDiagram.png, id=454, 786.94pt x 523.9575pt>
+File: imagenes/classesDiagram.png Graphic file (type png)
+<use imagenes/classesDiagram.png>
+Package pdftex.def Info: imagenes/classesDiagram.png  used on input line 110.
+(pdftex.def)             Requested size: 303.53267pt x 202.09602pt.
+) [25pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 \include{capitulo4}
+                         <./imagenes/classesDiagram.png>] [26]
+(./templateICI.bbl [27
+
+
+] [28]
+Underfull \hbox (badness 10000) in paragraph at lines 175--180
+\OT1/ptm/m/n/12 LIBXSMM % 3A-[]Accelerating-[]Small-[]Matrix-[]Multiplications-
+[]Heinecke-[]Henry /
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+ [29]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (./templateICI.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- (./capitulo1.aux) (./capitulo2.aux)
-(./capitulo3.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+ (./capitulo1.aux) (./capitulo2.aux) (./capitulo3.aux) (./capitulo4.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `templateICI.out' has not changed.
-(rerunfilecheck)             Checksum: 56391D9C6F5EFBABF6C09C4C34EF3FCA;1782.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
+(rerunfilecheck)             Checksum: 6E371A57DAAE76D2E121517BEF079B54;3751.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 8343 strings out of 492642
- 115504 string characters out of 6135567
- 234070 words of memory out of 5000000
- 12010 multiletter control sequences out of 15000+600000
+ 8603 strings out of 492639
+ 119571 string characters out of 6135496
+ 239990 words of memory out of 5000000
+ 12163 multiletter control sequences out of 15000+600000
  29342 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,8n,35p,455b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,9n,35p,718b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on templateICI.pdf (12 pages, 238835 bytes).
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/t
+exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/u
+rw/times/utmri8a.pfb>
+Output written on templateICI.pdf (29 pages, 1182599 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
- 62 named destinations out of 1000 (max. 500000)
- 219 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 502 compressed objects within 6 object streams
+ 150 named destinations out of 1000 (max. 500000)
+ 492 words of extra memory for PDF output out of 10000 (max. 10000000)
 

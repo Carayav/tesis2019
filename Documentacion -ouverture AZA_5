@@ -1,0 +1,29 @@
+Fonction ouverture AZA_5
+[SIG2,fe,f0,data,temps, RSS, RSB] = ouverture_aza_v5(start_path,chemin1,indice,unite,porte)%,Nfft_t,fmin,fmax)
+
+Function to open on matlab the .conf and .us files obtained
+From the acquisitions by the probe aza_v5
+
+
+Function input
+start_path = relative path of the measurements folder from the codes folder
+matlab
+path1 = absolute path of the folder that contains the .us and .conf measures
+index = number of .us, if 0 all .us
+unit == 0 in mV, unit == 1 in sampling level
+gate == 1 application of a TuckeyWin window on time signals
+
+Output of the function
+SIG2 = Matrix of size Nt x nb_receptor x nb_emission x index x direction
+fe = freq ech (20 MHz for AZA)
+f0 = Central frequency
+data = structure of the general parameters of the acquisitions
+time = time vector associated with acquired signals
+RSS report signal   saturation (2048) nb_receptor x nb_emission x index x direction
+RSB signal ratio   noise (2048) nb_receptor x nb_emission x index x direction
+
+
+Date: November 2013
+Author: Quentin Vallet
+Last Update: 05/12/2013
+JGM 9 Jan 2013

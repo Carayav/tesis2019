@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"mathit",
+				"\\mathit{text}                                     \tlatex-document"
+			],
+			[
+				"texbf",
+				"\\textbf{text}                                     \tlatex-document"
+			],
+			[
+				"itemiz",
+				"\\begin{itemize}                                   \tlatex-document"
+			],
+			[
+				"em",
+				"\\emph{text}                                       \tlatex-document"
+			],
+			[
+				"foot",
+				"\\footnotemark                                     \tlatex-document"
+			],
+			[
+				"cite",
+				"\\cite{keylist}                                    \tlatex-document"
+			],
+			[
+				"para",
+				"\\paragraph{title}                                 \tlatex-document"
+			],
+			[
 				"a",
 				"aeronave"
 			],
@@ -486,49 +514,50 @@
 			[
 				"en",
 				"enviados"
-			],
-			[
-				"siz",
-				"sizeof"
-			],
-			[
-				"buffe",
-				"buffer_file"
-			],
-			[
-				"buff",
-				"buffer_file"
-			],
-			[
-				"str",
-				"strlen"
-			],
-			[
-				"sock",
-				"socket_fd"
-			],
-			[
-				"soc",
-				"socket_fd"
-			],
-			[
-				"sco",
-				"socket_fd"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "tesis_tex.sublime-project",
+			"file": "templateICI.tex",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 2399,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "capitulo3.tex",
+			"settings":
+			{
+				"buffer_size": 6982,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "capitulo4.tex",
+			"settings":
+			{
+				"buffer_size": 6987,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cl/Desktop/tecnologia-inmersiva.txt",
+			"settings":
+			{
+				"buffer_size": 5526,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "La tecnologia inmersiva se refiere a tecnologia qu"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -590,6 +619,54 @@
 		[
 			[
 				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
 					"Packages/User/C.sublime-build",
 					""
 				],
@@ -632,8 +709,16 @@
 		"selected_items":
 		[
 			[
+				"i",
+				"Indent XML"
+			],
+			[
 				"pcip",
 				"Package Control: Install Package"
+			],
+			[
+				"pcar",
+				"Package Control: Add Repository"
 			],
 			[
 				"insta",
@@ -650,10 +735,6 @@
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
-			],
-			[
-				"i",
-				"Indent XML"
 			],
 			[
 				"indent xml",
@@ -948,15 +1029,46 @@
 	},
 	"expanded_folders":
 	[
-		"/home/cl/Documents/2018-02/Tesis/tesis_tex"
+		"/home/cl/Documents/2018-02/tesis/tesis_tex"
 	],
 	"file_history":
 	[
+		"/home/cl/Documents/2018-02/tesis/octave/tesis_20181126.m",
+		"/home/cl/Documents/2018-02/tesis/tesis_tex/capitulo4.tex",
+		"/home/cl/Documents/2018-02/TODO",
+		"/home/cl/trabajo/rnc/rnc-ws/pom.xml",
+		"/home/cl/trabajo/rnc-ws/websphere/logs/SystemOut.log",
+		"/home/cl/trabajo/rnc-ws/websphere/SystemOut.log",
+		"/home/cl/trabajo/rnc-final/tmp/rnc-ws-0.0.1-SNAPSHOT.war",
+		"/home/cl/.config/i3/config",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/capitulo3.tex",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/referencias/tesis.bib",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/capitulo2.tex",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/templateICI.tex",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/capitulo1.tex",
+		"/home/cl/public_20181122_162905.sql",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/scratch_pad/scratch01.note",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/scratch_pad/scratch.note",
+		"/home/cl/Documents/2018-02/Tesis/tesis_repo/PlantillaPropuesta.tex",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/referencias.bib",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/referencias/fmm.bib",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/referencias/libros.bib",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/referencias/Ultrasonics.bib",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/referencias/Handbook_of_Linear_Algebra.bibtex",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/referencias/Ultrasonic_Transducers.bibtex",
+		"/home/cl/Documents/2018-02/Tesis/octave/tesis_2018.11.14.m",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/templateICI.log",
+		"/home/cl/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/cl/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/cl/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/cl/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/cl/.config/sublime-text-3/Packages/JSHint/Base File.sublime-settings",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/imagenes/Fig_ejMet.png",
+		"/home/cl/Documents/2018-02/Tesis/tesis_tex/tesis_tex.sublime-project",
 		"/home/cl/Documents/2018-02/Tesis/TesisRepo/referencias.bib",
 		"/home/cl/Documents/2018-02/Tesis/tmp/referencias.bib",
 		"/home/cl/Documents/2018-02/Tesis/TesisRepo/PlantillaPropuesta.tex",
 		"/etc/lightdm/lightdm-gtk-greeter.conf",
-		"/home/cl/.config/i3/config",
 		"/home/cl/.config/alacritty/alacritty.yml",
 		"/home/cl/.notify-osd",
 		"/var/lib/AccountsService/icons/cl",
@@ -966,7 +1078,6 @@
 		"/home/cl/.xinitrc",
 		"/home/cl/.xprofile",
 		"/home/cl/trabajo/rnc-ws/websphere/logs/SystemErr.log",
-		"/home/cl/trabajo/rnc-ws/websphere/logs/SystemOut.log",
 		"/home/cl/Documents/2018-02/Ramos/SistemasBD/scripts/script-creacion-bd.sql",
 		"/home/cl/Documents/2018-02/Ramos/SistemasBD/scripts/script-insert.sql",
 		"/home/cl/Documents/2018-02/Ramos/SistemasBD/scripts/cert2015.sql",
@@ -1049,41 +1160,11 @@
 		"/home/cl/trabajo/piloto/logs/2018.10.26-14:26:52-Err.log",
 		"/home/cl/trabajo/piloto/src/main/webapp/WEB-INF/spring-ws-servlet.xml",
 		"/home/cl/trabajo/rnc-roberto/RNC/src/main/webapp/WEB-INF/web.xml",
-		"/home/cl/trabajo/piloto/src/main/resources/spring-ws-servlet.xml",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-14:16:03-Out.log",
-		"/home/cl/trabajo/rnc-roberto/RNC/src/main/webapp/WEB-INF/dispatcher-servlet.xml",
-		"/home/cl/trabajo/piloto/tmp/WEB-INF/web.xml",
-		"/home/cl/trabajo/rnc-roberto/RNC/pom.xml",
-		"/home/cl/trabajo/rnc-roberto/RNC/src/main/resources/hibernate.cfg.xml",
-		"/home/cl/trabajo/piloto/src/main/java/com/uv/ws/endpoint/utils/HibernateUtility.java",
-		"/home/cl/trabajo/piloto/src/main/java/com/uv/ws/endpoint/datalayer/PacienteData.java",
-		"/home/cl/trabajo/piloto/src/main/java/com/uv/model/Documentos.java",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-11:53:38-Err.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-11:53:38-Out.log",
-		"/home/cl/trabajo/rnc-roberto/RNC/src/main/java/cl/minsal/api/service/InsertPacienteService.java",
-		"/home/cl/trabajo/rnc-roberto/RNC/src/main/java/cl/minsal/api/controller/ApiRestController.java",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-12:11:03-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-11:37:17-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-11:08:35-Err.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-10:57:52-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-10:57:52-Err.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-11:06:38-Err.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-11:05:09-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-11:09:34-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-09:50:34-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-10:09:52-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-10:15:08-Out.log",
-		"/home/cl/trabajo/piloto/app_dirs/2018.10.26-10:15-rnc/rnc-piloto-0.0.1-SNAPSHOT.war/WEB-INF/classes/hibernate.cfg.xml",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-03:21:08-Out.log",
-		"/home/cl/trabajo/piloto/config/ejemplo.xml",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-03:27:45-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-03:05:29-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-03:00:42-Out.log",
-		"/home/cl/trabajo/piloto/logs/2018.10.26-02:52:13-Out.log"
+		"/home/cl/trabajo/piloto/src/main/resources/spring-ws-servlet.xml"
 	],
 	"find":
 	{
-		"height": 32.8031809145
+		"height": 34.965034965
 	},
 	"find_in_files":
 	{
@@ -1097,6 +1178,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"matrix m",
+			"goto",
+			"figure",
+			"viewer",
 			"FTPed",
 			"bar",
 			"title",
@@ -1123,24 +1208,395 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "tesis_tex.sublime-project",
+					"file": "templateICI.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 2399,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								34,
-								34
+								1857,
+								1857
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 47,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2389,
+										2397
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1144,
+										1152
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1800.1998002,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "capitulo3.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1667,
+								1667
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 50,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3600.3996004,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "capitulo4.tex",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								809,
+								809
 							]
 						],
 						"settings":
@@ -1148,7 +1604,7 @@
 							"WordCount":
 							{
 								"changes": 0,
-								"count": 2,
+								"count": 741,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -1162,24 +1618,24 @@
 								{
 									"1":
 									[
-										34,
-										35
+										337,
+										338
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										32,
-										33
+										314,
+										315
 									]
 								},
 								"unmatched":
@@ -1188,87 +1644,72 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"bracket_highlighter.locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										34,
-										35
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										32,
-										33
-									]
 								},
 								"unmatched":
 								{
@@ -1276,21 +1717,41 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -1301,11 +1762,6 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1315,31 +1771,199 @@
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2549.45054945,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/cl/Desktop/tecnologia-inmersiva.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3286,
+								3286
+							]
+						],
+						"settings":
+						{
+							"SL.53.region_keys":
+							[
+							],
+							"auto_name": "La tecnologia inmersiva se refiere a tecnologia qu",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage"
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1133.86613387,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1347,7 +1971,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.8031809145
+		"height": 34.965034965
 	},
 	"input":
 	{
@@ -1396,6 +2020,10 @@
 	{
 		"height": 130.0
 	},
+	"output.latextools":
+	{
+		"height": 474.0
+	},
 	"output.markdown":
 	{
 		"height": 130.0
@@ -1412,11 +2040,11 @@
 	{
 		"height": 180.0
 	},
-	"pinned_build_system": "Packages/JSHint/JSHint.sublime-build",
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"project": "tesis_tex.sublime-project",
 	"replace":
 	{
-		"height": 62.6242544732
+		"height": 65.9340659341
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1425,6 +2053,54 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"c2",
+				"tesis_tex/capitulo2.tex"
+			],
+			[
+				"cap3",
+				"tesis_tex/capitulo3.tex"
+			],
+			[
+				"cap2",
+				"tesis_tex/capitulo2.tex"
+			],
+			[
+				"cap1",
+				"tesis_tex/capitulo1.tex"
+			],
+			[
+				"tesis.b",
+				"tesis_tex/referencias/tesis.bib"
+			],
+			[
+				"tesis",
+				"tesis_tex/referencias/tesis.bib"
+			],
+			[
+				"c1",
+				"tesis_tex/capitulo1.tex"
+			],
+			[
+				"refere",
+				"tesis_tex/referencias.bib"
+			],
+			[
+				"ca1",
+				"tesis_tex/capitulo1.tex"
+			],
+			[
+				"ca",
+				"tesis_tex/capitulo1.tex"
+			],
+			[
+				"capit",
+				"tesis_tex/capitulo3.tex"
+			],
+			[
+				"template",
+				"tesis_tex/templateICI.tex"
+			],
 			[
 				"routes",
 				"config/routes.js"
@@ -1514,7 +2190,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 341.0,
+	"side_bar_width": 234.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

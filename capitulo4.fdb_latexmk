@@ -1,0 +1,12 @@
+# Fdb version 3
+["pdflatex"] 1544197923 "capitulo4.tex" "capitulo4.pdf" "capitulo4" 1544197923
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1536122179 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1536122179 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1536122179 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1536122179 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1536245302 7908118 616710bb5a8dd98239258b82112161c2 ""
+  "capitulo4.aux" 1544197721 6798 a8fb1b976735443ba9df1ddf757ee40b ""
+  "capitulo4.tex" 1544208070 7098 6502193966ce679b207e9ec459ba8914 ""
+  (generated)
+  "capitulo4.pdf"
+  "capitulo4.log"

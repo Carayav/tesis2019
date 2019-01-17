@@ -1,0 +1,15 @@
+/home/cl/Documents/2018-02/tesis/octave/2018_05_16_LARIB014_by_DONATIEN_RADIUS_LEFT/11_21_09/2018_05_16__11_21_09.conf
+Date: December 2013
+Author: Quentin Vallet
+Last Update: 05/12/2013
+
+Function to open on matlab the obtained .conf file
+From the acquisitions by the probe aza_v5 and to know the
+general parameters of the measurement
+
+Function input
+Conf_file = conf file name open
+path = path of the folder that contains the conf file
+
+Output of the function
+data = structure of the general parameters of the acquisitions
