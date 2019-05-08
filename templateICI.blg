@@ -1,37 +1,38 @@
-This is BibTeX, Version 0.99d (TeX Live 2018/Arch Linux)
+This is BibTeX, Version 0.99d (TeX Live 2018/TeX Live for SUSE Linux)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: templateICI.aux
 A level-1 auxiliary file: capitulo1.aux
 A level-1 auxiliary file: capitulo2.aux
 A level-1 auxiliary file: capitulo3.aux
 A level-1 auxiliary file: capitulo4.aux
+A level-1 auxiliary file: capitulo5.aux
 The style file: IEEEtran.bst
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: referencias.bib
 Warning--I'm ignoring Lorincz2009's extra "note" field
 --line 24 of file referencias.bib
 Database file #2: referencias/tesis.bib
-Repeated entry---line 13 of file referencias/tesis.bib
+Repeated entry---line 8 of file referencias/tesis.bib
  : @article{Lorincz2009
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 185 of file referencias/tesis.bib
+Repeated entry---line 180 of file referencias/tesis.bib
  : @book{leslie2007handbook
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 235 of file referencias/tesis.bib
+Repeated entry---line 230 of file referencias/tesis.bib
  : @book{ensminger2008ultrasonics
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 309 of file referencias/tesis.bib
+Repeated entry---line 304 of file referencias/tesis.bib
  : @electronic{US
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 422 of file referencias/tesis.bib
+Repeated entry---line 417 of file referencias/tesis.bib
  : @book{nakamura2012ultrasonic
  :                             ,
 I'm skipping whatever remains of this entry
@@ -43,7 +44,7 @@ Warning--empty booktitle in Masliah2016
 Done.
 You've used 21 entries,
             4087 wiz_defined-function locations,
-            983 strings with 12330 characters,
+            984 strings with 12343 characters,
 and the built_in function-call counts, 14766 in all, are:
 = -- 1213
 > -- 337

@@ -1,0 +1,48 @@
+%!TEX root = templateICI.tex
+%!TEX spellcheck=es_ES
+
+\chapter{Implementación}\label{ch:Impl}    
+
+\section{Hardware utilizado}
+
+El hardware utilizado para el desarrollo de esta tesis corresponde a un notebook \textbf{Lenovo B40}. Este notebook cuenta con un procesador \textbf{Intel Core i3-5005U} con una frecuencia base de 2.0 Ghz, contando con 2 núcleos. Un núcleo es un termino de hardware que describe el numero de unidades centrales de proceso independientes en un componente único de computo. La frecuencia base del procesador describe la velocidad a la que funcionan los transistores del procesador.
+Este procesador cuenta con 3 niveles de cache. En el nivel 3 cuenta con 3 Megabytes de memoria, en el nivel 2 con 256 Kilobytes y el nivel 1 cuenta con 32 Kilobytes para los datos y 32 Kilobytes para las instrucciones. La CPU Cache es un área de memoria rápida ubicada en el procesador. Este procesador soporta las extensiones del conjunto de instrucciones  Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2. Las Extensiones de conjunto de instrucciones son instrucciones adicionales que pueden aumentar el rendimiento cuando se realizan las mismas operaciones en múltiples objetos de datos. Estos pueden incluir SSE (Streaming SIMD Extensions) y AVX (Advanced Vector Extensions).
+El notebook utilizado cuenta con 8 Gigabytes de memoria principal del tipo DDR3L. 
+
+Todas esta características son importantes para los tiempos de ejecución del programa. La frecuencia base esta asociada a la cantidad de instrucciones que un procesador puede llevar a cabo en un tiempo determinado, la cantidad de nucleos esta ligada a la capacidad de paralelizar tareas. Las memorias cache del procesador son usadas para reducir el tiempo promedio en acceder a los datos desde la memoria principal ya que se encuentran cerca del núcleo del procesador. Las extensiones del conjunto de instrucciones nos permiten obtener paralelismo a nivel de datos.
+
+
+
+\section{Software utilizado}
+A continuación se detallaran los software utilizados para este trabajo. Se uso MATLAB que es un software para computación matemática, análisis, visualización y desarrollo de algoritmos, para el prototipo del algoritmo de transmision axial permitiendo modificar el codigo de forma mas sencilla. Se utilizo Matlab Coder para transformar el codigo en Matlab a codigo en el lenguaje de programacion C. Esta transformacion permite poder analizar el ejecutable de este codigo con HPCToolkit y asi poder identificar ineficiencias en el codigo, como subutilizacion de la cache. En este trabajo 
+
+\section{Lenguajes de programación}
+Los lenguajes utilizado fueron el lenguaje propietario de Matlab, junto con el lenguaje de programacion C. La eleccion de Matlab es por la capacidad de convertir el codigo original en codigo en C permitiendo construir binarios que se puedan analizar.  
+
+ 
+
+\section{Estrategia de implementación}
+La estrategia utilizada para implementar sera primero realizar un analisis del codigo actual y realizar un \textit{refactoring} de este. La refactorización de código es el proceso de reestructuración del código de computadora existente, sin cambiar su comportamiento externo. La refactorización está destinada a mejorar los atributos no funcionales del software. Dentro de estos cambios, primero se buscan \textit{olores de codigo}. A continuacion se listan los mas comunes.
+ \begin{itemize}
+ 	\item \textbf{Bloaters} son código, métodos y clases que han aumentado a proporciones  que son difíciles de trabajar. Por lo general, estos olores no aparecen de inmediato, sino que se acumulan con el tiempo a medida que el programa evoluciona.
+ 	\item \textbf{Previene el cambio} Estos olores significan que si se necesita cambiar algo en un lugar en el código, también se tienen que hacer muchos cambios en otros lugares. El desarrollo del programa se vuelve mucho más complicado y costoso como resultado.
+ 	\item  \textbf{Un prescindible } es algo inútil e innecesario cuya ausencia haría que el código sea más limpio, más eficiente y más fácil de entender.
+ 	\item \textbf{Acopladores} los olores en este grupo contribuyen a un acoplamiento excesivo entre clases o muestran lo que sucede si el acoplamiento es reemplazado por una delegación excesiva.
+ \end{itemize}
+
+Para solucionar estos problemas se ocuparan distintas técnicas de refactoring.
+
+\begin{itemize}
+	\item \textbf{Métodos de composición} gran parte de la refactorización está dedicada a componer correctamente los métodos. En la mayoría de los casos, los métodos excesivamente largos son la raíz de todo mal. El código dentro de estos métodos ocultan la lógica de ejecución y hacen que el método sea extremadamente difícil de entender, y aún más difícil de cambiar.
+	
+	Las técnicas de refactorización en este grupo simplifican los métodos, eliminan la duplicación de código y allanan el camino para futuras mejoras.
+	\item \textbf{Moviendo características entre objetos} muestran cómo mover de manera segura la funcionalidad entre clases, crear nuevas clases y ocultar los detalles de implementación del acceso público.
+	\item\textbf{ Organizando datos} ayudan con el manejo de datos, reemplazando los primitivos con una funcionalidad de clase rica. Otro resultado importante es el desenredado de las asociaciones de clase, lo que hace que las clases sean más portátiles y reutilizables.
+	\item \textbf{Simplificando Expresiones Condicionales} los condicionales tienden a complicarse cada vez más en su lógica a lo largo del tiempo.
+\end{itemize}
+
+
+\section{Interfaces}
+
+
+
