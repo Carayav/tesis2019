@@ -1,0 +1,57 @@
+
+\chapter{Pruebas}\label{ch:testing}    
+
+
+La transmision axial bidireccional (BDAT) es una tecnica de ultrasonido con procesamiento de señales que permite medir el espesor y porosidad de hueso cortical.
+
+El codigo base en matlab que realiza el calculo de la transimision axial bidireccional esta estructurado en etapas e implementan distintos metodos para el calculo de esposor y porosidad. 
+
+A continuacion se describen las etapas comunes para los tres metodos.
+
+1. Etapa de Adquisicion de datos
+
+En esta etapa el codigo matlab recibe como parametros de entrada los archivos de las mediciones realizadas con la sonda donde son procesados y ademas se obtiene parametros de las medciones.
+
+2. Calculo de Norm f k 
+
+En esta etapa se realiza el procesamiento de la señal utilizando 
+
+
+
+En el codigo base de matlab se encuentran implementados los metodos grad y total, estos metodos tienen distintas caracteristicas en terminos de tiempo de ejecucion y el grafico que se genera con cada metodo. 
+
+El metodo grad encuentra una solucion en menor tiempo que el metodo total, utlizando una un busqueda discreta dentro del espacio de soluciones  pero solo mostrando una imagen parcial en el espacio de espesor versus porosidad perdiendo el detalle de la superficie de dicha solucion. INSERTAR IMEGENES
+
+El metodo total logra encontrar la solucion mostrando de forma total el espacio de solucion permitiendo ver todo el detalle que permite poder analizar la calidad de la solucion en base a los contornos de la imagen generada, con lo que se puede inferir la calidad de la medicion. 
+
+En este trabajo de titulo se implemento el metodo fast-total que logra tener tiempo de ejecucion menor que el metodo grad y ademas logra graficar de forma completa el espacio de espesor/porosidad, esto lo logra al ocupar valor precalculado de un modelo del hueso para calcular la solucion.
+
+En este capítulos se realizaran pruebas para ver la concordancia entre mediciones del método fast-total con los métodos total y grad usando gráficos de Bland-Altman (agregar referencia) e histogramas con las diferencias de las mediciones de fast-total con los otros métodos.
+
+El grafico de bland-altman es un metodo usado para analizar el acuerdo entre distintos metodos de medicion. 
+
+Cada metodo es realizado para las n mediciones, resultando en 2n puntos de datos, cada una de las n mediciones es representadad en el grafico, siendo el valor de x la media entre las dos mediciones y como valor de y la diferencia entre los dos valores.
+
+Ademas se realizaron mediciones de los tiempos de ejecución de los métodos fast-total, grad y total.
+
+\section{Conjunto de Datos}
+
+
+
+
+
+
+El conjunto de datos utilizado para comparar los metodos de medicion fueron mediciones del hueso Radio de 20 pacientes del estudio del Hospital Lariboisière de Paris, Francia. 
+En total fueron usadas 96 sesiones de medicion con un total de 964 mediciones. 
+
+
+Los tiempos de ejecucion de los 3 metodos (fast-total, grad y total) fueron calculados usando 5 sesiones de mediciones del estudio anteriormente nombrado. 
+En total 50 mediciones fueron utilizadas. Se ocupo un notebook con las siguientes caracteristicas y entorno para medir el tiempo de ejecución:
+CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+MEM: 16GB
+Linux Kernel Version: 4.19.69
+Matlab Version: 9.4.0.813654 (R2018a)
+
+
+
+
